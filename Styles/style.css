@@ -1,94 +1,97 @@
-* {
-    margin: auto;
-}
-html,
 body {
-    width: 1366px;
-    height: 100%;
-    
-}
-.container{
-    display: table;
-  height: 100%;
-    
-}
-
-.content{
-    display: table-row;
-  height: 100%;
-}
-.header{
-    padding: 63px 0px 36px 98px;
-    background-color: #f1f1f1;
-}
-.logo {
-    float: left
-}
-
-.menu li {
-    float: right;
-    list-style-type: none;
-    
-}
-.menu {
-    margin-right: 211px;
-}
-.menu li a {
-    text-decoration: none;
-    text-transform: uppercase;
-    font-family: Montserrat;
-    font-size: 14px;
-    line-height: 48px;
-    color: #8c8c8c;
-    padding: 0px 14px;
-    border: transparent;
-    
-}
-
-.menu li a:hover{
-    color: black;
-    border-bottom: 2px solid black;
-}
-
-.footer{
-    background-color: #f1f1f1;
-    height: 380px;
+    margin: 0 auto;
     width: 1366px;
 }
-
-.copyright{
+.header {
+    height: 800px;
+    background-image: url(../Images/slider-img.png);
+    padding-top:1px;
+}
+.header-logo {
     float: left;
-    padding-top: px;
-    padding-left: px;
+    margin-left: 98px;
+    margin-top:  63px;
+}
+.header ul {
+    float: right;
+    list-style: none;
+        margin-right: 22px;
 
 }
-
-.copyright {
-    
-    color: #6c6c6c;
-    font-family: Montserrat;
-    font-size: 12pt;
-    padding-top: 48px;
-    padding-left: 100px;
-    
-}
-.contact-us{
-    padding-top: 115px;
-    padding-left: 100px;
-}
-.contact-us h2{
-    color: #6c6c6c;
+.header li {
+    float: left;
     text-transform: uppercase;
-    font-size: 14pt;
+    padding: 0px 15px;
+    padding-bottom: 2px;
+    margin-top: 40px;
+  font-size: 14px;
+  font-family: "Montserrat";
+  color: rgb(33, 33, 33);
+  
+}
+.header a{
+    text-decoration: none;
+    color: black;
 }
 
-.catalog a:active {
-
+.menu-button-home{
+border-bottom: 4px solid black;
+    font-weight: bold;
+}
+.search {
+    float: right;
+    margin-top: 55px ;
+    margin-right: 167px;
 }
 
+.header-description{
+    float: left;
+    margin-top: 290px;
+    margin-left: 98px;
+    width: 476px
+}
+.header-description h2{
+  font-size: 18px;
+  font-family: "Montserrat";
+  color: #43a047;
+  font-weight: bold;
+  text-transform: uppercase;
+    line-height: 0px;
+ 
+}
+.header-description h3{
+  font-size: 62px;
+  font-family: "Montserrat";
+  color: rgb(33, 33, 33);
+  text-transform: uppercase;
+    font-weight: 100;
+    line-height: 0px;
+ 
+}
 
-.clearfix::after {
-    clear:both;
-    display: block;
+.heder-description p {
+color: #6c6c6c;
+    font-family: "Montserrat";
+}
+
+.button-order{
+    clear: both;
+    padding-top: 20px;
+    margin-left: 95px;
+}
+
+.selector img {
+    margin-left: 623px;
+    margin-top: 85px
+}
+.clearfix::after{
+    clear: both;
+    display: table;
     content: "";
 }
+
+
+
+
+
+
