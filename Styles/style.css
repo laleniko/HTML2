@@ -90,6 +90,170 @@ color: #6c6c6c;
     content: "";
 }
 
+.feutured-product {
+border: 1px solid black;
+}
+
+.featured-slider ul{
+    list-style: none;
+    box-sizing: border-box;
+     margin-left: 185px;
+    margin-top: 100px;
+    
+}
+.featured-slider li a{
+    float: left;
+    text-decoration: none;
+  font-size: 36px;
+  font-family: "Montserrat";
+  color: rgb(33, 33, 33);
+  font-weight: bold;
+  line-height: 1.2;
+    padding: 20px;
+    border-bottom: 4px solid black;
+    
+}
+.featured-slider li a:hover{
+  font-size: 36px;
+  font-family: "Montserrat";
+  color: rgb(108, 108, 108);
+  font-weight: bold;
+  line-height: 1.2;
+    border-bottom: 1px solid black;
+  
+}
+.explore-button{
+    float: right;
+    margin-top: 20px;
+    margin-right: 100px;
+}
+
+.product-img{
+    clear: both;
+    padding-top: 50px;
+    padding-bottom: 120px;
+    
+}
+
+
+
+.img1{
+    float: left;
+    background-image: url(../Images/product-1.png);
+    background-repeat: no-repeat;
+    height: 270px;
+    width: 270px;
+    background-position: 10% 50%;
+    margin-left: 98px;
+    margin-right: 15px;
+}
+.img2{
+    float: left;
+    background-image: url(../Images/product-2.png);
+    background-repeat: no-repeat;
+    height: 270px;
+    width: 270px;
+    background-position: 40% 50%;
+    margin: 0px 15px;
+}
+.img3{
+    float: left;
+    background-image: url(../Images/product-3.png);
+    background-repeat: no-repeat;
+    height: 270px;
+    width: 270px;
+    background-position: 10% 50%;
+    margin: 0px 15px;
+}
+.img4{
+    float: left;
+    background-image: url(../Images/product-4.png);
+    background-repeat: no-repeat;
+    height: 270px;
+    width: 270px;
+    background-position: 60% 50%;
+}
+
+
+
+
+.img1:hover{
+    background-image: url(../Images/product-content-hover.png);
+}
+
+.img2:hover{
+    background-image: url(../Images/product-content-hover.png);
+}
+.img3:hover{
+    background-image: url(../Images/product-content-hover.png);
+}
+.img4:hover{
+    background-image: url(../Images/product-content-hover.png);
+}
+.exclusive{
+    clear: both;
+    padding-top: 120px;
+}
+
+.exclusive1{
+    float: left;
+    background-image: url(../Images/promo-img1.png);
+    height:683px ;
+    width: 683px;
+    background-repeat: no-repeat;;
+}
+.exclusive2{
+    float: left;
+    background-repeat: no-repeat;
+    background-image: url(../Images/promo-img2.png);
+    height:683px ;
+    width: 683px;
+}
+.exclusive-description{
+    margin-top: 227px;
+    margin-left: 55px;
+}
+
+.exclusive-description h3{
+
+  font-size: 18px;
+  font-family: "Montserrat";
+  color: #1e88e5;
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 0.667;
+ 
+}
+.exclusive-description h2{
+ 
+  font-size: 36px;
+  font-family: "Montserrat";
+  color: rgb(33, 33, 33);
+  font-weight: bold;
+  line-height: 0.2;
+  text-align: left;
+    
+  
+}
+
+
+
+.exclusive-description p{
+
+  font-size: 14px;
+  font-family: "Montserrat";
+  color: rgb(108, 108, 108);
+  line-height: 1.714;
+  text-align: left;
+    width: 450px;
+}
+
+.exclusive a{
+    float: left;
+    padding-top: 20px;
+}
+
+
 
 
 
