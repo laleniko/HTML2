@@ -389,7 +389,7 @@ border: 1px solid black;
 .up-footer-img{
     width: 700px;
     position: absolute;
-    bottom:-3088px;
+    bottom:-3874px;
     left: 670px;
         
     
@@ -497,13 +497,19 @@ line-height: 0px;
   text-align: left;
 }
 
-.footer-inf a{
+.footer-inf td a{
     text-decoration: none;
+     font-size: 14px;
+  font-family: "Myriad Pro";
+  color: rgb(33, 33, 33);
+  text-transform: uppercase;
+  line-height: 1.857;
+  text-align: left;
 }
 
 .footer-email{
     float: left;
-        margin: 45px;
+    margin: 45px;
     width: 400px;
     padding-top: 15px;
 }
@@ -539,8 +545,8 @@ line-height: 0px;
     width: 21px;
     height: 17px;
     position: absolute;
-    top: 5425px;
-    left: 1340px;
+    top: 5432px;
+    left: 1230px;
 }
 
 .social{
