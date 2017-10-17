@@ -253,6 +253,322 @@ border: 1px solid black;
     padding-top: 20px;
 }
 
+.trending-products h2{
+    float: left;
+  font-size: 36px;
+  font-family: "Montserrat";
+  color: rgb(33, 33, 33);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+    margin-top: 120px;
+    margin-left: 105px;
+}
+
+
+.trending-products a{
+    float: left;
+    margin-left: 660px;
+    margin-top: 130px;
+}
+
+.trending-products-img{
+    float: left;
+    margin-left: 105px;
+}
+
+.trending-products-img img{
+    float: left;
+    padding: 15px;
+}
+
+
+
+.hot-deal{
+    background-image: url(../Images/slider.png);
+    clear: both;
+    
+}
+
+
+.hot-deal h2{
+  font-size: 18px;
+  font-family: "Myriad Pro";
+  color: #e53935;
+  text-transform: uppercase;
+  line-height: 0.667;
+  text-align: left;
+
+}
+
+.hot-deal h3{
+  font-size: 62px;
+  font-family: "Myriad Pro";
+  color: rgb(33, 33, 33);
+  text-transform: uppercase;
+    line-height: 0px;
+  text-align: left;
+}
+
+.hot-deal p{
+  font-size: 14px;
+  font-family: "Myriad Pro";
+  color: rgb(108, 108, 108);
+  line-height: 1.714;
+  text-align: left;
+  
+}
+
+.hot-description{
+    padding-top: 280px;
+    padding-left:100px;
+    width: 550px;
+    
+}
+
+
+.hot-deal .hot-description-order{
+    margin-top: 30px;
+    margin-left: 100px;
+    float: left;
+}
+.hot-description-slider {
+    margin-top: 250px ;
+    margin-left: 20%;
+    margin-bottom: 20px;
+    
+}
+.up-footer{
+    
+
+}
+.up-footer-order{
+    background-image: url(../Images/up-footer/product-1-lg.png);
+    width: 560px;
+    height: 577px;
+    margin-top:110px;
+    margin-left: 50px;
+}
+
+.up-footer-order h2{
+  font-size: 18px;
+  font-family: "Myriad Pro";
+  color: #1e88e5;
+  text-transform: uppercase;
+  line-height: 0px;
+ 
+}
+.up-footer-order h3{
+  font-size: 36px;
+  font-family: "Myriad Pro";
+  color: rgb(33, 33, 33);
+  line-height: 0;
+  text-align: left;
+
+}
+
+.up-footer-order p{
+  font-size: 14px;
+  font-family: "Myriad Pro";
+  color: #6c6c6c;
+  line-height: 1.714;
+  text-align: left;
+ 
+}
+
+.up-footer-order-text{
+    padding-top: 180px;
+    padding-left: 30px;
+}
+
+.up-footer-order img{
+    padding-left: 20px;
+    float: left;
+}
+
+.up-footer-img{
+    width: 700px;
+    position: absolute;
+    bottom:-3088px;
+    left: 670px;
+        
+    
+}
+
+.up-footer-img img{
+    padding: 15px;
+}
+
+.mobile-app {
+    background-image: url(../Images/mobile-app.png);
+    height: 515px;
+    margin-top: 115px;
+}
+
+.mobile-app h2{
+    
+  font-size: 18px;
+  font-family: "Myriad Pro";
+  color: #6c6c6c;
+  text-transform: uppercase;
+line-height: 0px;
+}
+
+.mobile-app h3{
+  font-size: 62px;
+  font-family: "Myriad Pro";
+  color: rgb(33, 33, 33);
+  text-transform: uppercase;
+      line-height: 52px;
+  text-align: left;
+
+}
+
+.mobile-app p{
+    font-size: 18px;
+  font-family: "Myriad Pro";
+  color: #6c6c6c;
+line-height: 0px;
+    
+}
+
+.mobile-app-text{
+    float: left;
+    padding-top:115px;
+    padding-left: 100px;
+}
+
+.mobile-app-text img {
+    margin-top: 35px;
+    margin-left: 5px;
+    
+}
+
+.footer{
+    margin-left: 100px;
+    margin-top: 40px;
+    }
+
+.footer-contact{
+    float: left;
+    margin: 45px;
+}
+
+.footer-contact h3{
+  font-size: 18px;
+  font-family: "Montserrat";
+  color: rgb(108, 108, 108);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.333;
+  text-align: left;
+}
+.footer-contact p{
+    width: 200px;
+  font-size: 14px;
+  font-family: "Myriad Pro";
+  color: rgb(33, 33, 33);
+  line-height: 1.571;
+  text-align: left;
+}
+
+.footer-inf {
+    float:left;
+        margin: 45px;
+}
+
+.footer-inf h3{
+     font-size: 18px;
+  font-family: "Montserrat";
+  color: rgb(108, 108, 108);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.333;
+  text-align: left;
+}
+
+.footer-inf td{
+    width: 180px;
+  font-size: 14px;
+  font-family: "Myriad Pro";
+  color: rgb(33, 33, 33);
+  text-transform: uppercase;
+  line-height: 1.857;
+  text-align: left;
+}
+
+.footer-inf a{
+    text-decoration: none;
+}
+
+.footer-email{
+    float: left;
+        margin: 45px;
+    width: 400px;
+    padding-top: 15px;
+}
+
+.footer-email h3{
+  font-size: 18px;
+  font-family: "Myriad Pro";
+  color: rgb(108, 108, 108);
+  text-transform: uppercase;
+  line-height: 0.333;
+  text-align: left;
+ 
+}
+
+.footer-email p{
+  font-size: 14px;
+  font-family: "Myriad Pro";
+  color: rgb(33, 33, 33);
+  line-height: 1.2;
+  text-align: left;
+}
+
+.footer-email input{
+    width: 360px;
+    height: 45px;
+  font-size: 14px;
+  font-family: "Montserrat";
+  color: rgb(108, 108, 108);
+  line-height: 1.571;
+}
+
+.footer-email input[type="image"]{
+    width: 21px;
+    height: 17px;
+    position: absolute;
+    top: 5425px;
+    left: 1340px;
+}
+
+.social{
+    clear: both;
+    display: inline-block;
+}
+.social span {
+  font-size: 12px;
+  font-family: "Myriad Pro";
+  color: rgb(108, 108, 108);
+  text-transform: uppercase;
+  line-height: 2.167;
+  text-align: left;
+   padding: 152px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
